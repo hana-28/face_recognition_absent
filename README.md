@@ -70,7 +70,7 @@ You can download the repository and install manually by running:
 Lakukan clone atau download repository terlebih dahulu.
 
 <p align="center">
-    <img src="D:\New folder\image\README\download-respository-fisrt.jpeg" width="700" />
+    <img src=image\README\download-respository-fisrt.png" width="700" />
     <br>
  </p>
  
