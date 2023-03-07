@@ -27,7 +27,7 @@ Projek Presensi Berbasis Face Recognition menggunakan Python dan Flask merupakan
 
 Sistem ini menggunakan algoritma K-Nearest Neighbors (KNN) untuk melakukan pengenalan wajah. Dalam proses pelatihan, sistem akan mengumpulkan data wajah yang dikenal dan label yang sesuai, kemudian melatih model KNN dengan data tersebut. Setelah melatih model, sistem dapat digunakan untuk mengenali wajah baru dan mencatat presensi.
 
-Sistem ini akan dilengkapi dengan antarmuka web yang dapat digunakan oleh pengguna untuk mengecek presensi yang telah tercatat. Mendelegasikan semua kerja keras untuk [Presensi Universitas Amikom Yogyakarta Berbasis Face Recognition](https://github.com/hana-dev1/face_recognition_absent).
+Sistem ini akan dilengkapi dengan antarmuka web yang dapat digunakan oleh pengguna untuk mengecek presensi yang telah tercatat. Mendelegasikan semua kerja keras untuk [Presensi Universitas Respati Yogyakarta Berbasis Face Recognition](https://github.com/hana-dev1/face_recognition_absent).
 
 ## Dependencies
 
