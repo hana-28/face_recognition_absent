@@ -6,7 +6,7 @@
 
 # Dokumentasi Final Project Pemrograman Python Lanjut
 
-## Latar Belakang "Presensi Universitas Amikom Yogyakarta Berbasis Face Recognition"
+## Latar Belakang "Presensi Universitas Respati Yogyakarta Berbasis Face Recognition"
 
 Latar belakang dari proyek Presensi Berbasis Face Recognition menggunakan Python dan Flask adalah untuk menyediakan solusi absensi yang lebih efisien. Metode absensi tradisional seperti mencatat absensi secara manual atau menggunakan sistem absensi berbasis sidik jari atau QR Code memiliki beberapa keterbatasan, seperti kesulitan dalam mengenali wajah atau kesulitan dalam menggunakan sistem absensi.
 
@@ -14,22 +14,20 @@ Pengenalan wajah menggunakan teknologi computer vision dan machine learning meru
 
 Selain itu, menggunakan python dan flask juga sangat membantu dalam pengembangan sistem yang fleksibel dan mudah diintegrasikan dengan sistem lainnya. Python merupakan bahasa pemrograman yang sangat populer dan memiliki banyak library yang dapat digunakan untuk pengolahan citra dan pembelajaran mesin, sementara Flask merupakan framework yang digunakan untuk membuat aplikasi web yang ringan dan mudah digunakan.
 
-### Nama Anggota Kelompok
+### Nama Mahasiswa
 
-1. Andi Muhammad Ichsan Jalaluddin (20.83.0545)
-2. Raihan Rinto Andiansyah (20.83.0572)
-3. Satrio Bintang Pamungkas (20.83.0552)
+1. Hana Indryani (21.22.0021)
 
 <br/>
 <br/>
 
-## Gambaran "Presensi Universitas Amikom Yogyakarta Berbasis Face Recognition"
+## Gambaran "Presensi Universitas Respati Yogyakarta Berbasis Face Recognition"
 
 Projek Presensi Berbasis Face Recognition menggunakan Python dan Flask merupakan sebuah sistem yang dapat digunakan untuk mengenali wajah seseorang dan mencatat presensi. Proyek ini menggunakan bahasa pemrograman Python dan framework Flask untuk membuat aplikasi web yang akan digunakan sebagai antarmuka pengguna.
 
 Sistem ini menggunakan algoritma K-Nearest Neighbors (KNN) untuk melakukan pengenalan wajah. Dalam proses pelatihan, sistem akan mengumpulkan data wajah yang dikenal dan label yang sesuai, kemudian melatih model KNN dengan data tersebut. Setelah melatih model, sistem dapat digunakan untuk mengenali wajah baru dan mencatat presensi.
 
-Sistem ini akan dilengkapi dengan antarmuka web yang dapat digunakan oleh pengguna untuk mengecek presensi yang telah tercatat. Mendelegasikan semua kerja keras untuk [Presensi Universitas Amikom Yogyakarta Berbasis Face Recognition](https://github.com/satriobintang/Attendance-Using-Face-Recognition-Flask-Python).
+Sistem ini akan dilengkapi dengan antarmuka web yang dapat digunakan oleh pengguna untuk mengecek presensi yang telah tercatat. Mendelegasikan semua kerja keras untuk [Presensi Universitas Amikom Yogyakarta Berbasis Face Recognition](https://github.com/hana-dev1/face_recognition_absent).
 
 ## Dependencies
 
@@ -151,7 +149,7 @@ Algoritma yang digunakan untuk melakukan Face Recognition (pengenalan wajah) ada
 
 ## Project Documentation
 
-Gambar di bawah ini adalah tampilan home pada projek "Presensi Universitas Amikom Yogyakarta Berbasis Face Recognition".
+Gambar di bawah ini adalah tampilan home pada projek "Presensi Universitas Respati Yogyakarta Berbasis Face Recognition".
 
 <p align="center">
     <img src="image/README/face-recognition-satrio-home.png" width="700" />
@@ -190,9 +188,5 @@ Gambar dibawah menunjukan tabel presensi mahasiswa yang terdiri dari "Nomer, Nam
     <img src="image/README/face-recognition-satrio-student-attendance-table.png" width="700" />
     <br>
  </p>
-
-## Credits
-
-Most of the work has been completed thanks to [Alt5chm3rz](https://github.com/satriobintang) (SatrioBintang), Andi, and Raihan. Focus of this project is to 'develop' it.
 
 > I hope this project can be useful for many people. -Alt5chm3rz
