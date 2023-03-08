@@ -152,40 +152,40 @@ Algoritma yang digunakan untuk melakukan Face Recognition (pengenalan wajah) ada
 Gambar di bawah ini adalah tampilan home pada projek "Presensi Universitas Respati Yogyakarta Berbasis Face Recognition".
 
 <p align="center">
-    <img src="image/README/face-recognition-satrio-home.png" width="700" />
+    <img src="image/README/face-recognition-hana-home.jpg" width="700" />
     <br>
  </p>
 
 Gambar di bawah ini adalah contoh penggunaan program presensi menggunakan Face Recognition. Tahap awal untuk memulai, anda dapat melakukan input data mahasiswa terlebih dahulu dengan memasukkan Nama Mahasiswa dan NIM Mahasiswa pada form yang tersedia. Selanjutnya tekan tombol "Tambahkan Mahasiswa".
 
 <p align="center">
-    <img src="image/README/face-recognition-satrio-add-students.png" width="700" />
+    <img src="image/README/face-recognition-hana-add-students.jpg" width="700" />
     <br>
  </p>
   
 Gambar dibawah menunjukan kamera akan terbuka untuk melakukan pengambilan gambar wajah sebanyak 50. Gambar tersebut digunakan untuk data training untuk mengenali wajah yang akan melakukan presensi.
  <p align="center">
-    <img src="image/README/face-recognition-satrio-camera-open-for-get-data-training.png" width="700" />
+    <img src="image/README/face-recognition-hana-camera-open-for-get-data-training.jpg" width="700" />
     <br>
  </p>
 
 Gambar dibawah menunjukan "Total Mahasiswa Terdaftar" sudah bertambah, sebelumnya masih 0 sekarang bertambah menjadi 1.
 
  <p align="center">
-    <img src="image/README/face-recognition-satrio-new-students-success-added.png" width="700" />
+    <img src="image/README/face-recognition-hana-new-students-success-added.jpg" width="700" />
     <br>
  </p>
 
 Gambar dibawah menunjukan langkah dalam presensi menggunakan face recognition. Untuk melakukan presensi bisa menekan tombol "Lakukan Presensi". Selanjutnya kamera akan terbuka untuk melakukan pengenalan wajah. Terdapat tulisan pada GUI kamera tersebut yang terdiri dari "Nama Mahasiswa_NIM" berwarna biru. Tekan tombol "ESC" untuk melakukan presensi.
 
   <p align="center">
-    <img src="image/README/face-recognition-satrio-camera-open-for-recognize-faces.png" width="700" />
+    <img src="image/README/face-recognition-hana-camera-open-for-recognize-faces.jpg" width="700" />
     <br>
  </p>
  
 Gambar dibawah menunjukan tabel presensi mahasiswa yang terdiri dari "Nomer, Nama Mahasiswa, NIM, Waktu Presensi". Tabel tersebut berfungsi untuk menampilkan data yang sudah melakukan presensi. Dapat dilihat bahwa setelah melakukan presensi terdapat 1 data dari mahasiswa.
   <p align="center">
-    <img src="image/README/face-recognition-satrio-student-attendance-table.png" width="700" />
+    <img src="image/README/face-recognition-hana-student-attendance-table.jpg" width="700" />
     <br>
  </p>
 
