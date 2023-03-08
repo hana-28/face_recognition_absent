@@ -128,7 +128,7 @@ Salin ip address localhost seperti dibawah.
 Buka tab browser dan tempelkan lalu tekan enter untuk mengakses.
 
 <p align="center">
-    <img src="image/README/copy-ip-localhost-then-open-on-browser-tab.jpg" width="700" />
+    <img src="image/README/copy-ip-localhost-then-open-on-browser-tab.png" width="700" />
     <br>
  </p>
  
