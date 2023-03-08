@@ -70,7 +70,7 @@ You can download the repository and install manually by running:
 Lakukan clone atau download repository terlebih dahulu.
 
 <p align="center">
-    <img src="image\README\download-respository-fisrt.jpg" width="700" />
+    <img src="image\README\download-respository-first.jpg" width="700" />
     <br>
  </p>
  
