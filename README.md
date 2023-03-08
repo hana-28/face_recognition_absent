@@ -70,65 +70,65 @@ You can download the repository and install manually by running:
 Lakukan clone atau download repository terlebih dahulu.
 
 <p align="center">
-    <img src="image\README\download-respository-fisrt.png" width="700" />
+    <img src="image\README\download-respository-fisrt.jpg" width="700" />
     <br>
  </p>
  
 Ekstrak file zip setelah diunduh.
 <p align="center">
-    <img src="image/README/extract-file-after-download.png" width="700" />
+    <img src="image/README/extract-file-after-download.jpg" width="700" />
     <br>
  </p>
  
 File sudah berhasil di ekstrak.
 <p align="center">
-    <img src="image/README/file-already-extracted.png" width="700" />
+    <img src="image/README/file-already-extracted.jpg" width="700" />
     <br>
  </p>
  
 Pilih direktori lokasi.
 <p align="center">
-    <img src="image/README/select-location-directory.png" width="700" />
+    <img src="image/README/select-location-directory.jpg" width="700" />
     <br>
  </p>
  
 Buka Command Prompt (CMD) untuk melakukan perintah instalasi.
 <p align="center">
-    <img src="image/README/type-cmd.png" width="700" />
+    <img src="image/README/type-cmd.jpg" width="700" />
     <br>
  </p>
  
 Cmd sekarang terbuka di lokasi direktori.
 <p align="center">
-    <img src="image/README/cmd-now-opens-in-directory-location.png" width="700" />
+    <img src="image/README/cmd-now-opens-in-directory-location.jpg" width="700" />
     <br>
  </p>
 
 Gunakan perintah atau command "Scripts\activate".
 
 <p align="center">
-    <img src="image/README/use-command-scripts-activate.png" width="700" />
+    <img src="image/README/use-command-scripts-activate.jpg" width="700" />
     <br>
  </p>
 
 Gunakan perintah yang tertera pada instalasi.
 
 <p align="center">
-    <img src="image/README/use-command-installation.png" width="700" />
+    <img src="image/README/use-command-installation.jpg" width="700" />
     <br>
  </p>
 
 Salin ip address localhost seperti dibawah.
 
 <p align="center">
-    <img src="image/README/copy-ip-localhost.png" width="700" />
+    <img src="image/README/copy-ip-localhost.jpg" width="700" />
     <br>
  </p>
 
 Buka tab browser dan tempelkan lalu tekan enter untuk mengakses.
 
 <p align="center">
-    <img src="image/README/copy-ip-localhost-then-open-on-browser-tab.png" width="700" />
+    <img src="image/README/copy-ip-localhost-then-open-on-browser-tab.jpg" width="700" />
     <br>
  </p>
  
